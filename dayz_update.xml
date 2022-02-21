@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<update>
+		<version>1.1</version>
+		<file>DayZ.zip</file>		
+		<html>201.40.147.161/DayZ/Update/DayZ.zip</html>		
+		<command>false</command>
+		<execute>false</execute>
+	</update>
+
+</root>
